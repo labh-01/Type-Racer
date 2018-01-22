@@ -1,5 +1,5 @@
 # TYPE RACER
-# Developer - DIVYANSHU KAPOOR
+# Developer - SHUBHAM SINGH
 ## DESCRIPTION--
 
   You all might have used some online typing game to improve typing speed. So now here a software 
